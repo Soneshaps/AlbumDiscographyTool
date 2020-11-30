@@ -4,6 +4,7 @@ This site is not responsive but was learning backend back then so i got too lazy
 
 Here you can add an album and in that album you can add songs / youtube link / lyrics 
 You can delete / rename / append another song in the album 
+
 Some Screenshots :
 ![alt text](https://github.com/Soneshaps/AlbumDiscographyTool/blob/main/Screenshots/1.jpg)
 
